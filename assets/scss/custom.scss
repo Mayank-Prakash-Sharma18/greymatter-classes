@@ -1,3 +1,16 @@
+// Disable Text Selection (it will not disable right click, so images can still be copied)
+// Source - (https://www.w3docs.com/snippets/javascript/how-to-disable-text-selection-copy-cut-paste-and-right-click-on-a-web-page.html)
+
+body {
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  // color: #cc0000;
+}
+
+
 // Override this file to add your own SCSS styling.
 
 // To properly embed YouTube videos in my pages, ensuring that they are responsive
