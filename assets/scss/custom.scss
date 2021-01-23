@@ -47,3 +47,40 @@ table {
 .mak-text-color {
   color: rgb(255, 0, 98);
 }
+
+
+// CSS added by me / Mak / Mayank to design the Table of Content on each post (https://www.madcapsoftware.com/blog/css-tip-creating-styled-boxes-notes-warnings-examples-tips/)
+.toc-mak
+  {
+       -moz-border-radius: 6px;
+       -webkit-border-radius: 6px;
+      //  background-color: #f0f7fb;
+      //  background-image: url(images/pencil.png);
+      //  background-position: 9px 0px;
+      //  background-repeat: no-repeat;
+       border: solid 1px #3498db;
+       border-radius: 6px;
+       line-height: 18px;
+       overflow: hidden;
+       padding: 11px 36px;
+       margin-top: 15px;
+       margin-bottom: 15px;
+  }
+
+   // CSS added by me / Mak / Mayank to design the danger alert box, if needed on any post 
+.danger-mak
+{
+     -moz-border-radius: 6px;
+     -webkit-border-radius: 6px;
+    //  background-color: #fcedf2;
+    //  background-image: url(images/pencil.png);
+    //  background-position: 9px 0px;
+    //  background-repeat: no-repeat;
+     border: solid 1px #db34b1;
+     border-radius: 6px;
+     line-height: 18px;
+     overflow: hidden;
+     padding: 11px 36px;
+     margin-top: 15px;
+     margin-bottom: 15px;
+}

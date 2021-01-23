@@ -19,7 +19,7 @@ The earth moves in space in two distinct ways:
 * it rotates on its own axis from west to east once in every 24 hours → Causes day and night; 
 * it also revolves round the sun in an orbit once in every 365 + ¼ days → Causes the year.
 
-<img src="../../../media/earth/revolution.gif" alt="revolution" style="width:72%;height:72%;">
+<img src="../../../media/earth/revolution.gif" alt="revolution of earth" style="width:81%;height:81%;">
 
 Its tilted on its axis while revolving around the sun → Causes varying lengths of day and night and changes the apparent altitude of the midday sun (leads to different seasons)
 
@@ -32,7 +32,7 @@ Conditions are opposite in winter season.
 ## Rotation of Earth
 
 Earth rotates from west to east.
-<img src="../../../media/earth/earth-rotation.gif" alt="earth rotation" style="width:54%;height:54%;">
+<img src="../../../media/earth/earth-rotation.gif" alt="earth rotation" style="width:72%;height:72%;">
 
 ***Causes Day and Night***: One side of the earth's surface experiences daylight. The other side which is away from the sun's rays will be in darkness. 
 

@@ -28,16 +28,26 @@
 #   url = "#contact"
 #   weight = 60
 
-[[main]]
-   name = "Physical Geography"
-   url = "#"
-   identifier = "physical"
-   weight = 10
+# [[main]]
+#    name = "Physical Geography"
+#    url = "#"
+#    identifier = "physical"
+#    weight = 10
+
+# [[main]]
+#    name = "Earth"
+#    url = "earth/"
+#    parent = "physical"
+#    weight = 20
 
 [[main]]
    name = "Earth"
    url = "earth/"
-   parent = "physical"
+   weight = 10
+
+[[main]]
+   name = "Climatology"
+   url = "climatology/"
    weight = 20
 
 # Link to a PDF of your resume/CV from the menu.

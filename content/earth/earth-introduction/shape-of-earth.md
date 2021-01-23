@@ -52,7 +52,7 @@ If the earth were flat, the whole world would have sunrise and sunset at the sam
 
 The shadow cast by the earth on the moon during the lunar eclipse is always circular. 
 
-<img src="../../../media/earth/lunar-eclipse-shadow.gif" alt="lunar eclipse shadow" style="width:63%;height:63%;">
+<img src="../../../media/earth/lunar-eclipse-shadow.gif" alt="lunar eclipse shadow" style="width:81%;height:81%;">
 
 ### Other Planetary bodies 
 
