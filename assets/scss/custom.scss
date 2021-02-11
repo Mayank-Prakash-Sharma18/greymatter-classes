@@ -84,3 +84,29 @@ table {
      margin-top: 15px;
      margin-bottom: 15px;
 }
+
+
+// Custom button with hover effect added by Mak / Mayank / Mragank 
+// Source - https://www.w3schools.com/css/css3_buttons.asp; https://www.w3schools.com/css/css3_buttons.asp; https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_hover 
+.mak-button {
+  // background-color: #4CAF50; /* Green */
+  // border: none;
+  // color: white;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+  padding: 3px 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.mak-button:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+

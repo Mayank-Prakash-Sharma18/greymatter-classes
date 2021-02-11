@@ -7,7 +7,7 @@ date: "2021-01-09T00:00:00+01:00"
 draft: false
 menu:
   climatology-introduction:
-    parent: Introduction to Climatology 
+    parent: 1. Introduction to Climatology 
     weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)

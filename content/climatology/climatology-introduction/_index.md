@@ -27,4 +27,14 @@ In this module we will study about:
 
 - Basics of Weather & Climate
 
+- Atmosphere
+
+- Heat Budget of Earth
+
+- Atmospheric Circulation
+
+- Humidity and Precipitation
+
+
+
 

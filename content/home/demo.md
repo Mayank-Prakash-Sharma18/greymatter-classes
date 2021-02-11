@@ -58,8 +58,8 @@ Geography is a wide subject and IAS aspirants often have to refer various source
 
 Moreover, books cannot do justice with this subject. Geography is a subject that can be learnt better if we get to visualize and interact with the content. It also helps us to retain what we have just read. This is an effort in that direction. 
 
-{{% alert note %}}
+<!-- {{% alert note %}}
 You may also follow us on:
 - [Our English *YouTube* channel](https://youtube.com/channel/UCJjfAmcEOItdBnFmMmeuXkg/).
 - [Our Hindi *YouTube* channel](https://youtube.com/channel/UCatcK6IeDbaVILGaeD45Vow/).
-{{% /alert %}}
+{{% /alert %}} -->

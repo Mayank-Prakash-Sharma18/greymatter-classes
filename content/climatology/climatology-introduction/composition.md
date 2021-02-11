@@ -6,13 +6,28 @@ type: docs
 date: "2021-01-09T00:00:00+01:00"
 draft: false
 menu:
-  atmosphere:
-    parent: Atmosphere 
-    weight: 3
+  climatology-introduction:
+    parent: 2. Atmosphere 
+    weight: 6
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 6
 ---
+
+## Atmosphere
+
+Atmosphere is all around us. It can be traced upto a height of 10,000 km, but 90% of its mass is confined within 30 km from earth's surface.
+
+<img src="../../../media/climatology/atmosphere.jpg" alt="Atmosphere" style="width:72%;height:72%;">
+
+#### But what exactly is Atmosphere?
+
+It is a mixture of different gases around the earth, held to the earth by the force of gravity.
+
+This mixture is called air. It is colourless and odourles.
+
+
+## Composition of Atmosphere
 
 The atmosphere is composed of: 
 
